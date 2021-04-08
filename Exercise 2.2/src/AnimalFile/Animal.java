@@ -32,7 +32,7 @@ public class Animal {
 	void TotalFood(int q, double f, int t) {
 		
 		double tf = (q * f)/t;
-		System.out.println("Total food needed every day: " + tf + "g");
+		System.out.println("Total food needed every meal time: " + tf + "g");
 	}
 
 }
